@@ -1,4 +1,4 @@
-## Welcome to Monzzzz's Github 
+# Welcome to Monzzzz's Github :tada::tada::tada:
 
 <picture>
   <source
@@ -12,7 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-### Some Tools I Have Used and Learned
+## Some Tools I Have Used and Learned :dart:
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,npm,html,css,react,bootstrap,cpp,vscode,python,github,git,java" />
