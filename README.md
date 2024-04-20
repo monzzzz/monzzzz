@@ -11,15 +11,17 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+<br />
 
-## Some Tools I Have Used and Learned :dart:
+### Some Tools I Have Used and Learned :dart:
 
-
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,npm,html,css,react,bootstrap,cpp,vscode,python,github,git,java" />
   </a>
 </p>
+
+<br >
 
 ![Snake animation](https://github.com/monzzzz/monzzzz/blob/output/github-contribution-grid-snake.svg)
 
