@@ -21,6 +21,7 @@
   </a>
 </p>
 
+![Snake animation](https://github.com/monzzzz/monzzzz/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **monzzzz/monzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
