@@ -24,10 +24,9 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,npm,html,css,react,bootstrap,cpp,vscode,python,github,git,java" />
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,npm,html,css,react,bootstrap,cpp,vscode,python,github,aws,solidity,git,java" />
   </a>
 </p>
-
 
 <br >
 
