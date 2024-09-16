@@ -33,6 +33,7 @@
 ### Competitive Programming
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Monzzz)
+![Leetcode Stats](https://leetcard.jacoblin.cool/elmond)
 
 
 
