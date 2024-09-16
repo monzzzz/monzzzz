@@ -28,7 +28,13 @@
   </a>
 </p>
 
-<br >
+<be >
+
+### Competitive Programming
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Monzzz)
+
+
 
 ![Snake animation](https://github.com/monzzzz/monzzzz/blob/output/github-contribution-grid-snake.svg)
 
