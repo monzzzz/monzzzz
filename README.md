@@ -33,8 +33,8 @@
 ### Competitive Programming
 
 <div style="display: flex;">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Monzzz" alt="Codeforces Stats" style="width: 32%;">
-    <img src="https://leetcard.jacoblin.cool/elmond" alt="Leetcode Stats" style="width:63%;">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Monzzz" alt="Codeforces Stats" style="width: 34%;">
+    <img src="https://leetcard.jacoblin.cool/elmond" alt="Leetcode Stats" style="width:64%;">
 </div>
 
 
