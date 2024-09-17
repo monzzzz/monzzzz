@@ -32,9 +32,9 @@
 
 ### Competitive Programming
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Monzzz)
-![Leetcode Stats](https://leetcard.jacoblin.cool/elmond)
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/monzzz?v=1)
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Monzzz" alt="Codeforces Stats" style="display: inline-block; width: 30%;">
+<img src="https://leetcard.jacoblin.cool/elmond" alt="Leetcode Stats" style="display: inline-block; width: 30%;">
+<img src="https://codechef-readme-stats.onrender.com/monzzz?v=1" alt="CodeChef Stats" style="display: inline-block; width: 30%;">
 
 
 
