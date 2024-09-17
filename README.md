@@ -11,7 +11,7 @@
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzzzz&layout=compact&theme=vue" style="width: 40%;/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzzzz&layout=compact&theme=vue" style="width: 42%;/>
       </a>
     </td>
   </tr>
