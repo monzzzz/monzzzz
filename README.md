@@ -34,7 +34,7 @@
 
 <div style="display: flex;">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Monzzz" alt="Codeforces Stats" style="width: 35%;">
-    <img src="https://leetcard.jacoblin.cool/elmond" alt="Leetcode Stats" style="width:60%;">
+    <img src="https://leetcard.jacoblin.cool/elmond" alt="Leetcode Stats" style="width:68%;">
 </div>
 
 
