@@ -34,7 +34,7 @@
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Monzzz)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/elmond)
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/monz?v=1)
+![CodeChef Stats](https://codechef-readme-stats.onrender.com/monzzz?v=1)
 
 
 
