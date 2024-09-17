@@ -6,12 +6,12 @@
     <!-- GitHub stats card -->
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=monzzzz&show_icons=true&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api?username=monzzzz&show_icons=true&theme=dark" style="width: 55%;/>
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzzzz&layout=compact&theme=vue" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzzzz&layout=compact&theme=vue" style="width: 40%;/>
       </a>
     </td>
   </tr>
